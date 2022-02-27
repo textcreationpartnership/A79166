@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer, in defence of a messe of pottage, well seasoned and crumb'd. Against M. T. S. T. R. A. I. S. P. H. anagram, Strap Smith. Who falsly sayes, the Common Prayers are unlawfull, and no better than the Popes porrage.  In which tract is answered his unanswerable reasons: by the same Gyles Calfine.</title>
+            <author>Calfine, Giles.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79166</idno>
+            <idno type="STC">Wing C292</idno>
+            <idno type="STC">Thomason E144_28</idno>
+            <idno type="STC">ESTC R14834</idno>
+            <idno type="EEBO-CITATION">99859741</idno>
+            <idno type="PROQUEST">99859741</idno>
+            <idno type="VID">111837</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79166)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111837)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E144[28])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer, in defence of a messe of pottage, well seasoned and crumb'd. Against M. T. S. T. R. A. I. S. P. H. anagram, Strap Smith. Who falsly sayes, the Common Prayers are unlawfull, and no better than the Popes porrage.  In which tract is answered his unanswerable reasons: by the same Gyles Calfine.</title>
+                  <author>Calfine, Giles.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed Anno Domini, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Calfine, Giles. --  Messe of pottage, very well seasoned and crumbd --  Controversial literature --  Early works to 1800.</term>
+               <term>M. T. S. T. R. A. I. S. P. H. --  Answer to lame Giles Calfines Messe of pottage.</term>
+               <term>Church of England --  Customs and practices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111837:1"/>
+            <pb facs="tcp:111837:1" rendition="simple:additions"/>
+            <p>AN ANSWER, In Defence of A MESSE OF POTTAGE, Well Seaſoned and Crumb'd.</p>
+            <p>Againſt M. T. S. T. R. A. I. S. P. H.</p>
+            <p>Anagram, <hi>Strap Smith.</hi>
+            </p>
+            <p>Who falſly ſayes, the COMMON PRAYERS are unlawfull, and no better than the Popes Porrage.</p>
+            <q>
+               <bibl>
+                  <hi>11. Job 2.3.</hi>
+               </bibl>
+               <p>Should not the multitude of Words be anſwered, and ſhould a Man full of Talk be juſtified.</p>
+               <p>Should thy lyes make men hold their peace, and when thou mockeſt ſhall no Man make thee aſhamed.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>23.</hi> Exodus <hi>1.</hi>
+               </bibl>
+               <p>Thou ſhalt not raiſe a falſe Report.</p>
+            </q>
+            <p>In which Tract is anſwered his unanſwerable Reaſons: By the ſame <hi>Gyles Calfine.</hi>
+            </p>
+            <p>London, <hi>Printed Anno Domini,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111837:2"/>
+            <head>An Anſwer in Defence of a Meſſe of Pottage, well Seaſoned and Crumb'd.</head>
+            <p>THat it is a very great part of indignity to call the Book of <hi>Common Prayer,</hi> the Popes Porrage, is proved by three Reaſons. Firſt, In regard of the Matter in it. Secondly, In regard of the manner of it; And thirdly, In regard of the Lawes that have been Acted for the maintaining of it. As for the Matter of it, if you look well upon it, you ſhall find groun<g ref="char:EOLhyphen"/>ded, firſt upon the Scriptures; yea, Scripture it ſelfe, in many places, and not upon any Popiſh Maſſe. 2. For the Manner of it, wherein is firſt, Reading and Meditating; Secondly, Heavenly Ejaculation, conteyning ſhort pitthy Prayers, and they be of three ſort; firſt to be delivered from ſin. Secondly, Petitions for Grace, and Thankſgivings for Gods bleſſings towards Us: The third Reaſon, That it is an indignity to call it Porrage, becauſe they have beene eſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bliſhed by Acts of Parliament; viz. in the daies of King <hi>Edward</hi> the ſixth Queen <hi>Elizabeth,</hi> King <hi>James,</hi> and now maintained by our gratious Soveraign King <hi>Charles;</hi> and therefore fourth Reaſon might be added, That it is an in<g ref="char:EOLhyphen"/>dignity to the State, to caſt an aſperſion upon them, as if they ſhould maintaine Laws againſt Gods Word: for which cauſe there is pen<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lties againſt thoſe that did either deprave them, or uſe any other in ſtead of them: and to thi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purpoſe the Scrip<g ref="char:EOLhyphen"/>ture ſaies well, 13. <hi>Rom.</hi> 5. and 13. <hi>Heb.</hi> 17. and therefore it is not the Popes Porrage, nor compoſed out of the Maſſe and if you will look back a little, you ſhall finde, That Liturgies and Formes of Prayers have been long before the daies of <hi>Edward</hi> the ſixth, if not before there was any Pope in the World; <hi>Auſtea, Baſil, Clement, Chryſoſtome,</hi> and divers other, before their times who had formes of Prayers, and did anſwer after the Miniſter
+<pb facs="tcp:111837:2"/> ſometime, <hi>Lord have mercy one us, &amp;c.</hi> and at other <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imes, <hi>We lift up our hearts to thee, O Lord,</hi> and ſomtimes, <hi>Amen:</hi> By all which it appeares, That it is an indignity to call it ſo, and that it is not compoſed by the fat Cooks (as you te<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rme them) of the Popes Kitchen, but by Learned Divines, and therefore not to be abo<g ref="char:EOLhyphen"/>liſhed.</p>
+            <p>But grant it were Compoſed out of the Maſſe-Boo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (which I will never doe, but defie it) is it therefore ſo corrupted that it muſt needs be aboliſhed, and not rather corrected, amended: purcaſe you had a joynt of meat (which I know you love well) and that it were in a place of two tainted, or as we uſually ſay, Fly-blown, will you becauſe of this, caſt your meat quite away, and never eat a bit of it no, I ſuppoſe you would not, but rather cut out that which is tainted; a d throw that away, as not fit to be eaten, and preſerue the reſt for your own eating. And yet the Common Prayers is not taken out of the Popiſh Maſſe, neither is it tainted, nor an Idol-worſhip, and can be no abomination to offer them to God; and to this purpoſe, your proofes are but ſlender, that you prove that our prayers are abomination; indeed if they were directed to any Idols, Saints, or Angels, and not to the True and Ever living God, they then were Idolatrous Pray<g ref="char:EOLhyphen"/>ers: But being directed, intended, and Gods Glory onely aymed at tis a foule abuſe, and deſerues the lye, to ſay they are pro<g ref="char:EOLhyphen"/>phane, and full of Popery: therefore rayſe no more <hi>Rabſhakah</hi> like; but lay thy hand at thy mouth and be ſilent, for this kinde of zeale is like a fire that will burn up all Godly diſcipline, and brings ſoules even to deſpaire, if Gods mercy did not exceed his Works. As for Baptiſme, Matrimony, Viſitation of the ſicke, Conſecration of the Lords Supper, Collects, Epiſtles, and Goſ<g ref="char:EOLhyphen"/>pels, you ſay they are taken out of the Maſſe-Book, which is falſe, and that they are unlawfull and inventions of men; then, I pr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, ſhew a better way or forme, that they may be performed according to the Scripture. God did inſtitute Marriage, but we never read how the manner of performing it was: we reade
+<pb facs="tcp:111837:3"/> of divers that were buried, but how it is not ſpecified? ſo for the reſt: therefore God hath left it to the Church to preſcribe a forme how to doe them, provided, that they doe them accor<g ref="char:EOLhyphen"/>ding to his Word as neere as they can. Indeed in theſe dayes of diviſions; there be many that Baptiſe, Bury, and Marry, &amp;c. after another manner then the <hi>Common Prayer</hi> injoynes; but what is their manner? my thinks they come ſhort of performing them ſo well as the Prayer Book Commands: for in Baptiſme ther<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſcarce any Prayer made for the receiving of the Childe into the Congr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, and for its growth in Grace; and to perform theſe duties, a Stable, B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rne, or Chamber, is more fit then a Church, and I thinke I ſhould not lye, if I did ſay, a River: as for Marriage, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r's little ſaid wherefore it was ordayned, for as ſoon as they come into the Church, they are Married, with a ſhort Prayer of the Miniſters, and ſo flightly ſhuffled up and away. So likewiſe at Burials, ſome there be that allow of no Prayers at the Grave, for (ſay they) tis Popery to reade to the Dead, (all that's true) but they doe allow of Sermons to be Preached over the Dead, and why that? they ſay it benefits the hearers, as if the Prayers of the Grave did not, and were onely for the Dead: but if as much gai<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e were to be had at the Rea<g ref="char:EOLhyphen"/>ding of the Prayers, as there is at the Sermons, I queſtion if any would ſticke to ſay them: Now let any indifferent Man Judge; whether the Old way, as the Church uſeth, or the New way that Seperates and ſuch like uſe be the beſt. I for my part will leave it to the wiſe conſideration of the King and Parlia<g ref="char:EOLhyphen"/>ment to order things, as They ſeeme beſt, and that I will fol<g ref="char:EOLhyphen"/>low. But why is the Epiſtles and Goſpels tearmed patches and ſhreds? Tis but a groſſe Phraſe: are you kinne to any Botcher that uſeth patches and ſhreds to make up a Garment? And what fooliſh and vain repetitions are there (as you ſay;) Is <hi>Lord have mercy upon us, &amp;c. The Lords Prayer,</hi> and other ſhort Ejaculations, battologies, tautologies, and foppiſh things? what kind of abſurd ſpeech is this: it ſeems you want none of Gods
+<pb facs="tcp:111837:3"/> mercy, and your Prayers are better then our <hi>Saviors,</hi> &amp; that may be is the reaſon, that many will not conclude their Prayers with the <hi>Lords Prayer.</hi> Chriſt before his Paſſion, prayed to his Father one thing three times, <hi>Mat.</hi> 26.44. ſaying the ſame words: is it therefore unlawfull for us to doe the like? I ſuppoſe not: nei<g ref="char:EOLhyphen"/>ther to reade any ſmall portion of Scripture by it ſelfe upon any occaſion, by taking out here a little and there a little, as the Prophet hath it; ſo now it is neither frivolous nor ridiculous, but may be uſed in Gods worſhip. Moreover, if a Woman make a curteſie to the Miniſter in the Church, at her comming in, or going out. What of that? (if you be a Miniſter) did you never put off your Hat to any in the Church (or were you alwaies un<g ref="char:EOLhyphen"/>covered) nor did none to you; but being it is done, tis neither fel<g ref="char:EOLhyphen"/>lony nor treaſon; tis no Popiſh Ceremony, nor any duty: com<g ref="char:EOLhyphen"/>mon reaſon will tell you, that we owe reverence one to another, eſpecially to our ſuperiours; perhaps you have done worſe in a Church then that is, and we may lawfully reverence one another either in Church or field: but indeed nothing is ill ſpoken, but where it is ill taken, ſo ſaies the <hi>Proverbe;</hi> but what reverence will you allow to God in the Church, if Man muſt have none: ſurely all reverence to him muſt be excluded, if not God him<g ref="char:EOLhyphen"/>ſelfe God, it ſeems by this <hi>Argument,</hi> made the body for no uſe at all in the Church (or any where els) but to come and ſquat down and neuer to ſtir, unleſſe they ſit uneaſily, or to look upon another, fine cloathes: <hi>David</hi> thought it not ſin to kneele to God, neither did <hi>Daniel;</hi> Chriſt is an example for us in this point, who <hi>fell upon his knees to his Father; He humbled himſelfe, that we might learn of him;</hi> and therefore tis no Popiſh Porrage, or any unſeemly thing. The Letany alſo (as you ſay) is ridicu<g ref="char:EOLhyphen"/>lous, full of Magick ſpels, and worſe if worſe can be, even Con<g ref="char:EOLhyphen"/>juring it ſelfe: What unreaſonable madneſſe and abſurdity is this? perhaps your beliefe is not as an others is to beleeve you are ſaved by Chriſt Sufferings, but by your owne Merits; and to believe thus, is indeed ridiculous.</p>
+            <pb facs="tcp:111837:4"/>
+            <p>Concerning our Orders in the Church, no man need admire at it; for what is a Church without Order; S. <hi>Paul</hi> commands it, <hi>Let all things be done in Order,</hi> ſaith he; but it is a diſorder when Miniſters ſhall kneel, and other men ſhall ſit, when one ſhall ſtand; and another in a manner lye all along. I confeſſe, the Church at this time is out of Order, for in ſome places I have ſeen unmannerly Boyes turne Clearks, and begin a <hi>Pſalme,</hi> be<g ref="char:EOLhyphen"/>cauſe they would have no Service read yea, they have held on in Singing, till the Miniſter came that ſhould reach, in which time was Sung, the firſt foure parts of the 119 <hi>Pſalme,</hi> and part of the fifth part: I am ſure theſe have beene unlawfull Or<g ref="char:EOLhyphen"/>ders, neither hath the Prayers been ſo tedious and weariſome, as you ſay, nor driven out at length, to hinder Pre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ching; no, all thoſe Prayers put together, have not beene ſo long as I have heard: ſome to my knowledge have been an houre and a quarter long: wherein I have heard one and the ſame thing reiterated (I ſpeak within my bounds) a dozen times; neither could I finde them ſo profitable as thoſe in the Common Prayer: Beſides all this, if there hath been Sermons wanting in many places, it was not long of tedious Service (as you call it) but the fault was rather in negligent Miniſters: never were Sermons debard for the Service ſake, but they have been as plentifull as ever; and if any have not read thoſe Prayers with that devotion as they ought, the fault lies ſtill in them, that prayed without a ſence and feeling of their owne wants, and not in the Prayers, for they are found, and not to be tearmed Porrage or Popiſh dregs. I could wiſh, that the Pope in all his Dominions had no worſe Porrage then theſe Prayers, for then we might be aſſured hee would at length turne Proteſtant. And what quarter is there about Holydayes, dayes of Feaſting, as if they were kept in honour of Saints. Though God ſaid, ſix daies ſhalt thou labour, and keep the ſeventh day holy, doth it argue, that we may not goe to Church on a Holyday: the performing of this Service on that day, is to give God thanks that he hath given us ſuch
+<pb facs="tcp:111837:4"/> good Examples, as they were for us to imitate, and that wee may prayſe God in the remembrance of them, that they lived a godly life, and dyed in the Faith of <hi>Jeſus Chriſt.</hi> If you had <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Childe or Friend, that did live a Chriſtian life, and dyed in the ſtate of Grace, would not you (though many yeares after) thank God that you had ſuch a Childe or Friend, that was Gods ſer<g ref="char:EOLhyphen"/>vant, and pray further, that you may follow his ſteps: would you be thus uncharitable to your ſelfe, I ſuppoſe not: for proof, <hi>The Righteous ſhall be had in everlaſting remembrance; but the memory of the wicked ſhall rot,</hi> as the Scripture ſpeaks, the kee<g ref="char:EOLhyphen"/>ping of Holy dayes is therefore, that we may ſpend ſome time in the Church in prayſes and prayers: and to exerciſe our ſelues in ſome lawfull recreation: and that therefore cannot be Popery: there is yet another thing that is much ſtumbled at, and that is kneeling at the Sacrament, now to ſay this is Idola<g ref="char:EOLhyphen"/>try, you muſt firſt prove that wee kneele to the Creatures, <hi>Bread and Wine;</hi> to the Miniſter or to the railes; but to nei<g ref="char:EOLhyphen"/>ther of theſe did ever any Chriſtian Proteſtant kneele, or ever had that thought; which is the fitteſt, to kneele, ſtand, or ſit? we reade of neither of theſe, but that many will conj<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cture that <hi>Chriſt</hi> and the Diſciples ſate: which is not altogether ſo appa<g ref="char:EOLhyphen"/>rant: If the Church hath power to charge the time of receiving the Sacraments from night to noone, ſurely it hath ſome power to order a wholeſome and ſeemly geſture, being there is none preſcribed. Many are ſore croſt at the Croſſe in Baptiſme, and ſay tis the Mark of the Beaſt, <hi>Revel.</hi> 13.16.17. but it is not there underſtood, a materiall Croſſe, but the open profeſſion and Religion that the beaſt uſeth, and all thoſe that profeſſe his Religion, they are ſaid to be marked with the Beaſts marke; that is, the receiving of the m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rk in the forehead or hand one ſignifies the profeſſion, and the other ſignifies the action, both which argue no Croſſe, but I deſire no more croſſes; but croſſe fellowes take them if they will, and then one croſſe may lye upon another. If the Surpleſſe be a Rag, tis ſooner put off then on, there is no holineſſe in it, tis but a ſignification of purity, ei<g ref="char:EOLhyphen"/>ther
+<pb facs="tcp:111837:5"/> in the Miniſter, or the worſhip. So that in ſum of all that hath been ſaid, ther's no reaſonable Man (I beleeve) will cenſure the Common Prayer to be ſo vile, ſo unlawfull, and ſo full of Popiſh ſhreds and patches (as you ſay tis) and therefore to be aboliſhed; but rather if any thing be in it that is unſound, to be corrected and amended: for it was not Compoſed of fat Cooks of the <hi>Popes</hi> Kitchen (as you tearm them) but of godly Divines, of which function you are, I ſuppoſe, if not, would you were as good, for I ſcarce like you, eſpecially when men ſteale their works out of other Authors, or ſome other of their own, and are aſhamed of their names, and in ſtead write unknown Letters, as <hi>M.T.S.T.R.A.I.S.P.H.</hi> which being Annagramd is <hi>STRAP SMITH;</hi> and that <hi>I</hi> may give you one ſtrap more, and play the Smiths part, in ſtriking the yron whilſt tis hot, I will leave you in the midſt of the River, ſwimming after a Duck, but caught a Gooſe (the meat I ſhould ſay) with your Doublet off, and your Breeches on, which is an unproper ſwimming (for a muffled Cat can never catch Mice) no more can you attaine to the fleſh you ſo deſire, being ſo truſſed; and if I have not made a good expoſi<g ref="char:EOLhyphen"/>tion of your Doublet, then take it another way; One there wes, being hungry, went to an Ordinary, and cals for a three penny Or<g ref="char:EOLhyphen"/>dinary, and preſently was brought him a great boule of Pottage, with a little meat in the mid'ſt; the hungry party at the ſight of it, ſtreight puls off his Doublet; the party which brought it, aſ<g ref="char:EOLhyphen"/>ked the reaſon why he did ſo? anſwer was made, that he ſeeing ſo much Pottage, which he did not love, and ſo little meat, which he loved beſt, there was a neceſſity that he muſt put off his Doublet to ſwim to it: of which opinion you are, if not that party, who hold Pottage is only for Children, and meat for Men but my o<g ref="char:EOLhyphen"/>pinion is, that Pottage and Meat, Prayers and Preaching, is food convenient for Children and Men, and ſuch are the <hi>Common Prayers,</hi> tearme them as you liſt. Now, if I have done well, I am not ſorry; but if ill, I wiſh it were better, it is as well as a lame Man could do; notwithſtanding, it is far better to be Lame, then Lecherous. And no more of this.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111837:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
